@@ -1,0 +1,11 @@
+#telegram_token: "6155109195:AAFINZ_27In89hr_K3HFLqMbmMzmocneXfU" #SATOM
+telegram_token: "5905919999:AAHOZ7yo5uRQNvXL499a-3N3fbUZOEh70QE" #ChatHawk
+openai_api_key: "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"
+#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 pro
+#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 hungdv
+#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 eco
+#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
+#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 #aPhuc
+use_chatgpt_api: true
+allowed_telegram_usernames: []  # if empty, the bot is available to anyone
+new_dialog_timeout: 600  # new dialog starts after timeout (in seconds)
